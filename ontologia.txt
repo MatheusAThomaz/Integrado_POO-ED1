@@ -1,0 +1,31 @@
+Bacterial Infections and Mycoses;C01
+Bacterial Infections;C01.252
+Gram-Negative Bacterial Infections;C01.252.400
+Chlamydiaceae Infections;C01.252.400.210
+Chlamydia Infections;C01.252.400.210.210
+Chlamydophila Infections;C01.252.400.210.250
+Enterobacteriaceae Infections;C01.252.400.310
+Dysentery, Bacillary;C01.252.400.310.229
+Escherichia coli Infections;C01.252.400.310.330
+Gram-Positive Bacterial Infections;C01.252.410
+Actinomycetales Infections;C01.252.410.040
+Corynebacterium Infections;C01.252.410.040.246
+Mycobacterium Infections;C01.252.410.040.552
+Streptococcal Infections;C01.252.410.890
+Pneumococcal Infections;C01.252.410.890.670
+Rheumatic Fever;C01.252.410.890.731
+Infection;C01.539
+Skin Diseases, Infectious;C01.539.800
+Dermatomycoses;C01.539.800.200
+Hyalohyphomycosis;C01.539.800.200.383
+Tinea;C01.539.800.200.720
+Skin Diseases, Bacterial;C01.539.800.720
+Actinomycosis, Cervicofacial;C01.539.800.720.110
+Staphylococcal Skin Infections;C01.539.800.720.770
+Suppuration;C01.539.830
+Abscess;C01.539.830.025
+Abdominal Abscess;C01.539.830.025.020
+Brain Abscess;C01.539.830.025.160
+Empyema;C01.539.830.305
+Empyema, Pleural;C01.539.830.305.310
+Empyema, Subdural;C01.539.830.305.330
